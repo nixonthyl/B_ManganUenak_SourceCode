@@ -1,0 +1,57 @@
+[2026-07-09 12:59:44] POST   /auth/login               | 401 | user:nixon2332152@itpln.ac.id | ip:::1 | Kredensial salah
+[2026-07-09 12:59:50] POST   /auth/login               | 401 | user:nixonthyl       | ip:::1 | Kredensial salah
+[2026-07-09 13:00:36] POST   /auth/login               | 200 | user:nixon           | ip:::1
+[2026-07-09 13:00:37] GET    /menu                     | 200 | user:nixon           | ip:::1
+[2026-07-09 13:00:37] GET    /cart                     | 200 | user:nixon           | ip:::1
+[2026-07-09 13:00:48] GET    /menu                     | 200 | user:nixon           | ip:::1
+[2026-07-09 13:00:48] GET    /cart                     | 200 | user:nixon           | ip:::1
+[2026-07-09 13:01:04] POST   /cart                     | 201 | user:nixon           | ip:::1
+[2026-07-09 13:01:04] GET    /cart                     | 200 | user:nixon           | ip:::1
+[2026-07-09 13:01:06] DELETE /cart                     | 200 | user:nixon           | ip:::1
+[2026-07-09 13:01:06] GET    /cart                     | 200 | user:nixon           | ip:::1
+[2026-07-09 13:01:21] POST   /auth/login               | 200 | user:admin           | ip:::1
+[2026-07-09 13:20:24] POST   /auth/login               | 200 | user:Raja            | ip:::1
+[2026-07-09 13:20:25] GET    /menu                     | 200 | user:Raja            | ip:::1
+[2026-07-09 13:20:25] GET    /cart                     | 200 | user:Raja            | ip:::1
+[2026-07-09 13:20:33] GET    /cart                     | 200 | user:Raja            | ip:::1
+[2026-07-09 13:20:33] GET    /menu                     | 200 | user:Raja            | ip:::1
+[2026-07-09 13:23:06] POST   /auth/login               | 200 | user:admin           | ip:::1
+[2026-07-09 13:36:59] POST   /auth/login               | 401 | user:nixon           | ip:::1 | Kredensial salah
+[2026-07-09 13:37:08] POST   /auth/login               | 401 | user:nixon           | ip:::1 | Kredensial salah
+[2026-07-09 13:38:31] POST   /auth/login               | 401 | user:nixon           | ip:::1 | Kredensial salah
+[2026-07-09 13:39:04] POST   /auth/login               | 200 | user:admin           | ip:::1
+[2026-07-09 13:39:36] POST   /auth/login               | 200 | user:nixon           | ip:::1
+[2026-07-09 13:39:37] GET    /cart                     | 200 | user:nixon           | ip:::1
+[2026-07-09 13:39:37] GET    /menu                     | 200 | user:nixon           | ip:::1
+[2026-07-09 13:39:55] POST   /auth/login               | 200 | user:nixon           | ip:::1
+[2026-07-09 13:39:56] GET    /cart                     | 200 | user:nixon           | ip:::1
+[2026-07-09 13:39:56] GET    /menu                     | 200 | user:nixon           | ip:::1
+[2026-07-09 13:39:58] POST   /cart                     | 201 | user:nixon           | ip:::1
+[2026-07-09 13:39:58] GET    /cart                     | 200 | user:nixon           | ip:::1
+[2026-07-09 13:40:00] POST   /cart                     | 201 | user:nixon           | ip:::1
+[2026-07-09 13:40:00] GET    /cart                     | 200 | user:nixon           | ip:::1
+[2026-07-09 13:40:01] POST   /cart                     | 201 | user:nixon           | ip:::1
+[2026-07-09 13:40:01] GET    /cart                     | 200 | user:nixon           | ip:::1
+[2026-07-09 13:40:02] POST   /cart                     | 201 | user:nixon           | ip:::1
+[2026-07-09 13:40:02] GET    /cart                     | 200 | user:nixon           | ip:::1
+[2026-07-09 13:40:13] POST   /checkout                 | 201 | user:nixon           | ip:::1
+[2026-07-09 13:40:14] GET    /cart                     | 200 | user:nixon           | ip:::1
+[2026-07-09 13:40:31] POST   /auth/login               | 200 | user:admin           | ip:::1
+[2026-07-09 13:55:52] POST   /auth/login               | 200 | user:nixon           | ip:::1
+[2026-07-09 13:55:53] GET    /cart                     | 200 | user:nixon           | ip:::1
+[2026-07-09 13:55:53] GET    /menu                     | 200 | user:nixon           | ip:::1
+[2026-07-09 14:33:07] GET    /menu                     | 200 | user:nixon           | ip:::1
+[2026-07-09 14:33:07] GET    /cart                     | 200 | user:nixon           | ip:::1
+[2026-07-09 14:34:33] GET    /menu                     | 200 | user:nixon           | ip:::1
+[2026-07-09 14:34:33] GET    /cart                     | 200 | user:nixon           | ip:::1
+[2026-07-09 14:35:41] GET    /menu                     | 200 | user:nixon           | ip:::1
+[2026-07-09 14:35:41] GET    /cart                     | 200 | user:nixon           | ip:::1
+[2026-07-09 14:44:14] GET    /menu                     | 200 | user:nixon           | ip:::1
+[2026-07-09 14:44:14] GET    /cart                     | 200 | user:nixon           | ip:::1
+[2026-07-09 14:56:34] GET    /uts-testing-main/kelompok_gamasuk/Resto1/api/cart | 401 | user:anonymous       | ip:::1 | Token invalid/expired
+[2026-07-09 14:56:34] GET    /uts-testing-main/kelompok_gamasuk/Resto1/api/menu?limit=50 | 401 | user:anonymous       | ip:::1 | Token invalid/expired
+[2026-07-09 14:56:45] POST   /auth/login               | 200 | user:nixon           | ip:::1
+[2026-07-09 14:56:46] GET    /cart                     | 200 | user:nixon           | ip:::1
+[2026-07-09 14:56:46] GET    /menu                     | 200 | user:nixon           | ip:::1
+[2026-07-09 15:03:57] GET    /cart                     | 200 | user:nixon           | ip:::1
+[2026-07-09 15:03:57] GET    /menu                     | 200 | user:nixon           | ip:::1

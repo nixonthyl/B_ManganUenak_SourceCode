@@ -1,0 +1,2 @@
+[2026-05-04 21:13:51] GET    /test                     | 200 | user:test_user       | ip:::1 | Tes logger
+[2026-05-04 21:14:25] GET    /test                     | 200 | user:test_user       | ip:::1 | Tes logger
